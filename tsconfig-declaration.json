@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "strictNullChecks": true,
+    "target": "ES2021",
+    "outDir": "src/types",
+    "declaration": true,
+    "emitDeclarationOnly": true
+  },
+  "include": ["src/index.ts"]
+}
